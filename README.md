@@ -1,6 +1,6 @@
 # Diagnostico TD Municipal
 
-Prototipo web fullstack-ready para acompanar el Diagnostico Estrategico Institucional de la Ley 21.180.
+Prototipo del modulo dos de transformacion digital para la aplicacion de los diagnosticos de Transformacion Digital, con foco en el Diagnostico Estrategico Institucional de la Ley 21.180.
 
 ## Stack
 
@@ -36,8 +36,8 @@ npm run build
 
 - Dashboard ejecutivo con avance CPAT, Calidad Web y Gestion de Datos.
 - Proceso diagnostico con creacion de proceso vigente.
-- CPAT con tabla, formulario por secciones y ficha completa.
-- Calidad Web con instrumentos de Sitios Web y Servicios Digitales, 20 dimensiones y preguntas editables.
+- CPAT con tabla, formulario por secciones oficiales y ficha completa.
+- Calidad Web con instrumentos oficiales de Sitios Web y Servicios Digitales.
 - Gestion de Datos con registro de madurez, brecha y prioridad.
 - Consolidador de Brechas desde CPAT, Calidad Web y Gestion de Datos.
 
